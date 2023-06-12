@@ -8,7 +8,7 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
+I'm pursuing an MS in Computer Science from Columbia University with an expected graduation date of December 2024. 
 
 ## About My Advisor
 

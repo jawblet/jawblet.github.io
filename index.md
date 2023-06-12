@@ -16,7 +16,7 @@ Advisor info goes here.
 
 ## About My Project
 
-Project description goes here.
+The goal of the project, FaDE, is to create a working query explanation engine for aggregate query results. FaDE proposes explanations for given aggregate query results by offering predicates, or a boolean expression of attributes, that cause the result the user is interested in. 
 
 [My Final Report](files/finalreport.pdf)
 

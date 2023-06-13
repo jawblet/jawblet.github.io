@@ -16,7 +16,7 @@ I'm pursuing an MS in Computer Science from Columbia University with an expected
 
 ## About My Project
 
-The goal of the project, FaDE, is to create a working query explanation engine for aggregate query results. FaDE proposes explanations for given aggregate query results by offering predicates, or a boolean expression of attributes, that cause the result the user is interested in. 
+The goal of the project, FaDE (**Fa**st **D**eletion **E**valuation), is to create a working query explanation engine for aggregate query results. FaDE proposes explanations for given aggregate query results by offering predicates, or a boolean expression of attributes, that cause the result the user is interested in. My goal is to generate 
 
 [My Final Report](files/finalreport.pdf)
 

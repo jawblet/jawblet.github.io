@@ -8,11 +8,11 @@ title: DREAM Project Site
 
 ## About Me
 
-I'm pursuing an MS in Computer Science from Columbia University with an expected graduation date of December 2024. 
+I'm pursuing an MS in Computer Science from Columbia University with an expected graduation date of December 2024. Before Columbia, I worked in Product at a software company and got my BA from the University of Pennsylvania in 2019. 
 
 ## About My Advisor
 
-Advisor info goes here.
+[Eugene Wu](https://www.cs.columbia.edu/~ewu/) is an Associated Professor of Computer Science at Columbia University. His primary research areas are database systems, data interface development & generation, and query explanation.
 
 ## About My Project
 
